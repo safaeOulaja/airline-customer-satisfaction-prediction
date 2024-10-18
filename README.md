@@ -34,11 +34,11 @@ The Random Forest model achieved the highest accuracy of 81%.
 ## How to Run
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/airline-satisfaction.git
+   git clone https://github.com/yourusername/airline-customer-satisfaction-prediction.git
    ```
 2. Install the required libraries
    ```bash
-   pip install -r requirements.txt
+   pip install scikit-learn seaborn matplotlib numpy scikit-plot
    ```
 3. Run the Jupyter notebook
    ```bash
